@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Este es un código HTML</h1>
+    <h2><a href="#">Este es un link insertado por el usuario InfomanR</a></h2>
     <?php echo("Este es un código PHP <br>")?>
     <?php
         $a = 5; 
