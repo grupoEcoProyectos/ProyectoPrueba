@@ -14,7 +14,7 @@ Cada desarrollador tiene una copia del código y el historial de las versiones e
 
 ```console
 git config --global user.name "Rafael Ortiz"
-git config --global user.name "infoman.rafael@gmail.com"
+git config --global user.email "infoman.rafael@gmail.com"
 ```
 Para ver como se tiene configurado, se escribe:
 
@@ -56,6 +56,37 @@ touch documento.txt
 
 Un proyecto puede estar en tres etapas:
 
-1. **Working directory** 
+1. **Working directory** Que es el directorio donde se encuentra trabajando el desarrollador.
 2. **Staging**
-3. **Repositorio**
+3. **Repositorio** El lugar donde esta subido el código, historial.
+
+Para agregar los archivos que están "untracked" en el **stagging area**, escribimos el siguiente comando:
+
+```console
+git add -A
+```
+
+Si queremos quitar un archivo del stagging area, digitamos el siguiente comando:
+
+```console
+git rm --cached .gitignore
+```
+Ahora si solo queremos agregar ese archivo digitamos el siguiente comando
+
+```console
+git add .gitignore
+```
+Pasamos los archivos al repositorio:
+
+```console
+git commit -m "Estos son mis primero archivos"
+```
+Ahora si se quiere ver el historial de todos los "commits" que se realizarón:
+
+```
+
+```
+
+
+
+
