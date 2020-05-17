@@ -16,6 +16,9 @@ Cada desarrollador tiene una copia del código y el historial de las versiones e
 git config --global user.name "Rafael Ortiz"
 git config --global user.email "infoman.rafael@gmail.com"
 ```
+
+## Nota: Para cambiar de usarios de Git en Windows 10 se debe ir al Administrador de Contraseñas
+
 Para ver como se tiene configurado, se escribe:
 
 ```console
@@ -83,9 +86,11 @@ git commit -m "Estos son mis primero archivos"
 ```
 Ahora si se quiere ver el historial de todos los "commits" que se realizarón:
 
+```console
+git log
 ```
 
-```
+
 
 
 
