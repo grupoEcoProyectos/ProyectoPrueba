@@ -90,6 +90,10 @@ Ahora si se quiere ver el historial de todos los "commits" que se realizarón:
 git log
 ```
 
+## Branches
+
+La ramas o branches permiten que el usuario crear un rama alterna a la rama principal **master** en la cual 
+
 
 
 
