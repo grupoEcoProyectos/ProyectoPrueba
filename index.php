@@ -13,7 +13,7 @@
     <div><a href="#">Link que no lleva a ningún lado</a></div>
 
     <p>Estos cambios no los tendra el Administrador solo yo jaja</p>
-
+    <span>Seguimos probando Git</span>
     <?php echo("Este es un código PHP <br>")?>
     <?php
         $a = 5; 
