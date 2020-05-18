@@ -19,4 +19,4 @@
         echo "PHP tambien puede acceder a las bases de datos"
     ?>
 </body>
-</html>s
+</html>
