@@ -20,6 +20,8 @@
         $b = 10; 
         $c = $a+$b; 
         echo "La suma de $a y $b es $c";
+
+        echo "PHP tambien puede acceder a las bases de datos"
     ?>
 </body>
 </html>
