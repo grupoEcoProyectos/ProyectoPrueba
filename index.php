@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Este es un código HTML</h1>
+    <h2>Nuevo cambio hecho por el administrador</h2>
     <?php echo("Este es un código PHP <br>")?>
     <?php
         $a = 5; 
