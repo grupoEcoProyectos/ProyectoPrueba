@@ -11,6 +11,9 @@
     <h2>Nuevo cambio hecho por el administrador</h2>
 
     <div><a href="#">Link que no lleva a ningún lado</a></div>
+
+    <p>Estos cambios no los tendra el Administrador solo yo jaja</p>
+
     <?php echo("Este es un código PHP <br>")?>
     <?php
         $a = 5; 
@@ -19,4 +22,4 @@
         echo "La suma de $a y $b es $c";
     ?>
 </body>
-</html>s
+</html>
