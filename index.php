@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Este es un código HTML</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem dolorum exercitationem harum eligendi ut impedit, iure nesciunt magni nostrum nemo fugiat? Laudantium velit sint odio illo asperiores rerum eum illum.</p>
     <h2>Nuevo cambio hecho por el administrador</h2>
 
     <div><a href="#">Link que no lleva a ningún lado</a></div>
