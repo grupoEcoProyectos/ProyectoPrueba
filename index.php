@@ -30,6 +30,6 @@
         <li>Desde una</li>
         <li>Maquina virtual</li>
     </ul>  
-
+    <span>Todos mis cambios como desarrollador dependiente van aca abajo</span>
 </body>
 </html>
