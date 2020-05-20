@@ -31,5 +31,6 @@
         <li>Maquina virtual</li>
     </ul>  
     <span>Todos mis cambios como desarrollador dependiente van aca abajo</span>
+    <div>Esta es una actualizacion de Rafael Ortiz</div>
 </body>
 </html>
