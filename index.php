@@ -14,6 +14,7 @@
 
     <p>Estos cambios no los tendra el Administrador solo yo jaja</p>
     <span>Seguimos probando Git</span>
+    <span>Nuevos cambios en el merge</span>
     <?php echo("Este es un código PHP <br>")?>
     <?php
         $a = 5; 

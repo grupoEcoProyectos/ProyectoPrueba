@@ -92,7 +92,46 @@ git log
 
 ## Branches
 
-La ramas o branches permiten que el usuario crear un rama alterna a la rama principal **master** en la cual 
+La ramas o branches permiten que el usuario crear un rama alterna a la rama principal **master** en la cual cada desarrollador puede trabajar en sus propias modificaciones.
+
+Para crear una branch se escribe el siguiente comando
+
+```console
+git branch miNuevaRama
+```
+Para ver todas las branch, se escribe el siguiente comando
+
+```
+git branch
+```
+
+Para subir el cambio a una nueva branch, se escribe el siguiente comando:
+
+```console
+git push -u origin mNuevaRama
+```
+
+Para ver todas las branch locales y remotas
+
+```console
+git branch -a
+```
+
+Para cambiar de branch
+
+```console
+git checkout master
+```
+
+Para obtenere la **ultima versión**:
+
+### Unir los branches al master
+
+
+
+
+
+
 
 
 
