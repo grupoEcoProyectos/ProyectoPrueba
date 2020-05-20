@@ -123,9 +123,48 @@ Para cambiar de branch
 git checkout master
 ```
 
-Para obtenere la **ultima versión**:
+Para obtener la **ultima versión**:
 
 ### Unir los branches al master
+
+Primeramente si se encuentra en cualquier otra rama, debe irse a la rama **master**
+
+```console
+git checkout master
+```
+Bajarse la última version de la rama master con:
+
+```console
+git pull origin master
+```
+Para ver las branch que hemos mergeado hasta ahora, ejecutamos el siguiente comando:
+
+```
+git branch --merged
+```
+Ahora hacemos la union con la branche **master**
+
+```
+git merge miNuevaRama
+```
+Ahora subimos al servidor
+
+```console
+git push origin master
+```
+Para eliminar la branch , se ejecuta el siguiente comando:
+
+```console
+git push origin --delete miNuevaRama
+```
+
+Para eliminar la branch de mi local ejecutamos:
+
+```console
+git branch -d miNuevaRama
+```
+
+
 
 
 
