@@ -164,6 +164,18 @@ Para eliminar la branch de mi local ejecutamos:
 git branch -d miNuevaRama
 ```
 
+Para copiarnos el cambio de master a la otra rama seguimos los siguientes pasos:
+
+1. Con el comando **git log** copiamos el id de la modificación que llevaremos a la otra rama
+2. ingresamos a la rama correspondiente con **git checkout**
+3. Luego ingresamos el siguiente comando con el id de la modificación:
+
+```console
+git cherry-pick 4f0fa46a721b9eb1da6 
+```
+4. Finalmente con el comando **git log** verificamos que id de la modificación este dentro de la rama.
+
+
 
 
 
