@@ -16,6 +16,7 @@
     <p>Estos cambios no los tendra el Administrador solo yo jaja</p>
     <span>Seguimos probando Git</span>
     <span>Nuevos cambios en el merge</span>
+    <h3>Título h3 insertado por Pedro de la Villa</h3>
     <?php echo("Este es un código PHP <br>")?>
     <?php
         $a = 5; 
@@ -32,6 +33,10 @@
         <li>Maquina virtual</li>
     </ul>  
     <span>Todos mis cambios como desarrollador dependiente van aca abajo</span>
+<<<<<<< HEAD
     <div>Esta es una actualizacion de Rafael Ortiz</div>
+=======
+    <article>Está es una modificación de Juan de la Villa</article>
+>>>>>>> desarrolladorJuanDeLaVilla
 </body>
 </html>
