@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Este es un código HTML</h1>
+    <h2>Título h2 insertado por Rafael Ortiz</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem dolorum exercitationem harum eligendi ut impedit, iure nesciunt magni nostrum nemo fugiat? Laudantium velit sint odio illo asperiores rerum eum illum.</p>
     <h2>Nuevo cambio hecho por el administrador</h2>
 
@@ -32,6 +33,10 @@
         <li>Maquina virtual</li>
     </ul>  
     <span>Todos mis cambios como desarrollador dependiente van aca abajo</span>
+<<<<<<< HEAD
+    <div>Esta es una actualizacion de Rafael Ortiz</div>
+=======
     <article>Está es una modificación de Juan de la Villa</article>
+>>>>>>> desarrolladorJuanDeLaVilla
 </body>
 </html>
