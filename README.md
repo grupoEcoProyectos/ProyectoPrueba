@@ -125,7 +125,7 @@ git checkout master
 
 Para obtener la **ultima versión**:
 
-### Unir los branches al master
+## Unir los branches al master
 
 Primeramente si se encuentra en cualquier otra rama, debe irse a la rama **master**
 
