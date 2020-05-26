@@ -33,10 +33,6 @@
         <li>Maquina virtual</li>
     </ul>  
     <span>Todos mis cambios como desarrollador dependiente van aca abajo</span>
-<<<<<<< HEAD
-    <div>Esta es una actualizacion de Rafael Ortiz</div>
-=======
-    <article>Está es una modificación de Juan de la Villa</article>
->>>>>>> desarrolladorJuanDeLaVilla
+    <p>Esta es la nueva rama master, se eliminarón las dos modificaciones anteriores</p>
 </body>
 </html>
